@@ -1,4 +1,3 @@
-
 import discord
 from discord import app_commands
 import random
@@ -104,5 +103,4 @@ async def sortear(interaction: discord.Interaction):
 
 
 
-aclient.run("MTE5MzcyMzg1MzI1MjM0MTg0MQ.G47ooZ.XrF_PeRTnZ_gkF_rIuWSpFXU_zVQFlqHhWY_fw")
-
+aclient.run("")
