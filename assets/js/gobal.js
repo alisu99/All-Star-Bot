@@ -40,7 +40,7 @@ function addHeader() {
     </div>
 
     <header>
-        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <nav style="background-color: #2d20df;" class="navbar navbar-expand-lg">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#">Navbar</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
@@ -69,9 +69,6 @@ function addHeader() {
                                 </li>
                                 <li><a class="dropdown-item" href="#">Something else here</a></li>
                             </ul>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link disabled" aria-disabled="true">Disabled</a>
                         </li>
                     </ul>
                     <form class="d-flex" role="search">
